@@ -1,2 +1,2 @@
 # pyMath
-Python Files that solve different math problems
+Python Files that solve different math problems/formulas
