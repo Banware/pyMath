@@ -1,0 +1,9 @@
+# a = b² (and/or) a = c * b
+
+b = int(input("Enter b(base) value: "))
+c = int(input("Enter c(height) value: "))
+x = b * c
+# end variables
+
+print("1. Multiply base and height: a = ", x)
+# end solve
